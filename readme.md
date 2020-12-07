@@ -2,6 +2,7 @@
 
 | Ссылка                                                                                                                            | Описание                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [methods.jquery](https://github.com/MihailStar/userscripts/blob/master/methods.jquery.user/methods.jquery.user.js)                | Добавляет функциональность фильтрации устаревших методов на jquery.com                         |
 | [rotate-image](https://github.com/MihailStar/userscripts/blob/master/rotate-image.user/rotate-image.user.js)                      | Добавляет функциональность поворота изображения, открытого в новой вкладке, по часовой стрелке |
 | [search.imgsrc](https://github.com/MihailStar/userscripts/blob/master/search.imgsrc.user/search.imgsrc.user.js)                   | Добавляет функциональность сортировки альбомов в поисковой выдаче на imgsrc.ru                 |
 | [user.imgsrc](https://github.com/MihailStar/userscripts/blob/master/user.imgsrc.user/user.imgsrc.user.js)                         | Добавляет функциональность сортировки альбомов пользователя на imgsrc.ru                       |
